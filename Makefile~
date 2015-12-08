@@ -2,10 +2,6 @@
 # Makefile
 #
 
-SUBMIT_URL = https://cs.ycp.edu/marmoset/bluej/SubmitProjectViaBlueJSubmitter
-COURSE_NAME = CS 101
-SEMESTER = Spring 2013
-
 INC = -Iinclude
 
 # See if ncurses.h is in an "ncurses" subdirectory
